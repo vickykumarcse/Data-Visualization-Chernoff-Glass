@@ -1,0 +1,41 @@
+body {
+  margin-top: 15px;
+  font-family: Verdana;
+}
+
+.navbar-brand {
+  margin-left: -22%;
+}
+
+.chernoff-variants {
+  width: 95%;
+  margin: auto;
+  margin-top: 80px;
+}
+
+.chernoff-container {
+  background: #f4f4f4;
+  margin: auto;
+  width: 95%;
+  margin-top: 40px;
+  margin-bottom: 80px;
+  box-shadow: 2px 2px 2px lightgray;
+}
+
+.chernoff-map {
+  display: block;
+  margin: auto;
+}
+
+.chernoff-map-container {
+  position: relative;
+}
+
+.sorting-controls {
+  margin-top: 5px;
+}
+
+.apply-button {
+  margin-top: 31px;
+  margin-left: 20px;
+}
